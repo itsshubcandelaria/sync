@@ -49,7 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Link',
+      name: 'Wordpress',
       link: 'https://candelaria.gov.ph',
     },
   ],
