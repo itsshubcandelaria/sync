@@ -14,10 +14,10 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "ITSS Drive",
+  title: "Sync Drive",
 
   // The folder that you are to share publicly with onedrive-cf-index-ng. Use '/' if you want to share your root folder.
-  baseDirectory: '/ITSS Drive',
+  baseDirectory: '/Freepik',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
@@ -49,8 +49,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Wordpress',
-      link: 'https://candelaria.gov.ph',
+      name: 'Ghost',
+      link: '#',
     },
   ],
 
